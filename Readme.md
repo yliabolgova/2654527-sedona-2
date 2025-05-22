@@ -2,8 +2,7 @@
 
 * Студент: [Юлия Болгова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2654527).
 * Наставник: [Александр Лесухин](https://htmlacademy.ru/profile/caneklis).
-* Сайт: [Седона]{https://yliabolgova.github.io/2654527-sedona-2/}
-
+* Сайт: [Седона](https://yliabolgova.github.io/2654527-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
